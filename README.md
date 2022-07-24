@@ -11,7 +11,14 @@
 
 <div align="left">  
   
-  **Note: Only for learning purposes**
+  **Note: These web scraping scripts are developed only for learning purposes**
+  
+  <ul>
+    <li><b>100 Movies: </b> Scrapped top 100 movies of all time.</li>
+    <li><b>Amazon Price Tracker: </b> Scrapped price of a particular product on amazon and automated the mail to sent when price drops.</li>
+    <li><b>Billboard Spotify: </b> A script to scrape Billboard Hot 100 songs and created a Spotify playlist.</li>
+    <li><b>News Scraping: </b> Scrapped top voted news Hacker News.</li>
+  </ul>
   
 </div>
 
