@@ -15,15 +15,19 @@
   
   <ul>
     <li>
-      <a href="https://github.com/gobisan14/WebScraping-Scripts/tree/main/100Movies">
-        100 Movies: 
-       </a> 
-       A script to scraped top 100 movies of all time.
-      </a>
+      <a href="https://github.com/gobisan14/WebScraping-Scripts/tree/main/100Movies">100 Movies: </a> 
+      A script to scraped top 100 movies of all time.
     </li>
-    <li><b>Amazon Price Tracker: </b> A script to scrape and track price of a particular product on amazon.</li>
-    <li><b>Billboard Spotify: </b> A script to scrape Billboard Hot 100 songs and create Spotify playlist.</li>
-    <li><b>News Scraping: </b> A script to scrape top voted news from Hacker News.</li>
+    <li>
+      <a href="https://github.com/gobisan14/WebScraping-Scripts/tree/main/Amazon-PriceTracker">Amazon Price Tracker: </a> 
+      A script to scrape and track price of a particular product on amazon.
+    </li>
+    <li>
+      <a href="https://github.com/gobisan14/WebScraping-Scripts/tree/main/Billboard-Spotify">Billboard Spotify: </a> 
+      A script to scrape Billboard Hot 100 songs and create Spotify playlist.</li>
+    <li>
+      <a href="https://github.com/gobisan14/WebScraping-Scripts/tree/main/NewsScraping">News Scraping: </a> 
+      A script to scrape top voted news from Hacker News.</li>
   </ul>
   
 </div>
