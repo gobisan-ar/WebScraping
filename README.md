@@ -10,5 +10,9 @@
   **Note: Only for learning purposes**
 </div>
 
+<div align="right">  
+  **Note: Only for learning purposes**
+</div>
+
 
 
