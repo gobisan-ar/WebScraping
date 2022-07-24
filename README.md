@@ -15,7 +15,7 @@
   
   <ul>
     <li>
-      <a href="https://github.com/gobisan14/WebScraping-Scripts/tree/main/100Movies"
+      <a href="https://github.com/gobisan14/WebScraping-Scripts/tree/main/100Movies">
         100 Movies: 
        </a> 
        A script to scraped top 100 movies of all time.
