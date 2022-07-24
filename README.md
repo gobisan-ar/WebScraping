@@ -16,7 +16,9 @@
   <ul>
     <li>
       <a href="https://github.com/gobisan14/WebScraping-Scripts/tree/main/100Movies"
-        <b>100 Movies: </b> A script to scraped top 100 movies of all time.
+        100 Movies: 
+       </a> 
+       A script to scraped top 100 movies of all time.
       </a>
     </li>
     <li><b>Amazon Price Tracker: </b> A script to scrape and track price of a particular product on amazon.</li>
