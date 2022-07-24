@@ -24,10 +24,16 @@
     </li>
     <li>
       <a href="https://github.com/gobisan14/WebScraping-Scripts/tree/main/Billboard-Spotify">Billboard Spotify: </a> 
-      A script to scrape Billboard Hot 100 songs and create Spotify playlist.</li>
+      A script to scrape Billboard Hot 100 songs and create Spotify playlist.
+    </li>
     <li>
       <a href="https://github.com/gobisan14/WebScraping-Scripts/tree/main/NewsScraping">News Scraping: </a> 
-      A script to scrape top voted news from Hacker News.</li>
+      A script to scrape top voted news from Hacker News.
+    </li>
+    <li>
+      <a href="https://github.com/gobisan14/WebScraping-Scripts/tree/main/WikiScrape">Wiki Scrape: </a> 
+      A script to scrape content from wikipedia.
+    </li>
   </ul>
   
 </div>
