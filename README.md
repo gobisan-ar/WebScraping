@@ -14,7 +14,11 @@
   **Note: These web scraping scripts are developed only for learning purposes**
   
   <ul>
-    <li><b>100 Movies: </b> A script to scraped top 100 movies of all time.</li>
+    <li>
+      <a href="https://github.com/gobisan14/WebScraping-Scripts/tree/main/100Movies"
+        <b>100 Movies: </b> A script to scraped top 100 movies of all time.
+      </a>
+    </li>
     <li><b>Amazon Price Tracker: </b> A script to scrape and track price of a particular product on amazon.</li>
     <li><b>Billboard Spotify: </b> A script to scrape Billboard Hot 100 songs and create Spotify playlist.</li>
     <li><b>News Scraping: </b> A script to scrape top voted news from Hacker News.</li>
